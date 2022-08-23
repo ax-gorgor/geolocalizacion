@@ -1,0 +1,10 @@
+*
+{margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: "Poppins", sans-serif;}
+
+.mapa{ 
+ width:1050px;
+ font-size: 36px;
+ margin-left: 72px }
